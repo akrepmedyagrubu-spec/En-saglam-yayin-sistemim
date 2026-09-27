@@ -15,6 +15,10 @@ Akilli ise akıllı işaretleri
 kv ise asıl yayınlanacak programı
 Kv sayı kadar repoya video atın sayının sırasına göre ilerleyecektir
 Örneğin repomuza kv1 ve kv2 dosyalarını atalım, ilk kv1 sonra kv2 yayınlanır ve bu yayında ilk olarak rj,reklam gibi şeyler yayınlanır
+Ayrıca, repoya yayin_logo.png ve reklam_logo.png dosyalarını atın
+Reklam resmi sadece adı reklam.mp4 olan videolarda tam overlay olur
+Diğer videolarda yayın resmi
+*AYRICA* Lütfen logolarınızı arkaplanı şeffaf olacak ve ekranda hangi tarafda gözükeceği belli şekilde atın, çünkü bu sistemde biz gelen resmi ekrana tam atıyoruz, kenara köşeye değil. (kendinize bir screenbug hazırlayın yani)
 # Kalite
 Yayın 420p ve 20fps olarak çıkıyor
 # Platform önerisi

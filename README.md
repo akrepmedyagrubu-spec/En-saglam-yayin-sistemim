@@ -1,4 +1,4 @@
-# En-saglam-yayin-sistemim
+# Elimdeki en sağlam sistem
 Ffmpeg programı ile videoları sıralı şekilde yayına sokan sistem. Render gibi sitelerde kullanılması önerilir ancak kendi vps'niz varsa orada en iyi performansı elde edersiniz
 
 # Yapmanız gerekenler

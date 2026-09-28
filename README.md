@@ -32,6 +32,7 @@ En sağlamı kendi vps gibi sunucunuzdur ancak bunlar paralı. Bedava tek altern
 2- Docker seçili kalsın ve free planı seçin
 3- Deploy edin
 Repoyu her güncellediğinizde yeniden deploy edin
+Link her zaman sabit kalır, sadece siz her yeniden deploy ettiğinizde sistem en baştan başlar.
 
 İyi kullanımlar
 
